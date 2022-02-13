@@ -9,5 +9,6 @@ Lover of technology and all about that
 
 ## Languages and Tools
 [![Mailson's GitHub stats](https://github-readme-stats.vercel.app/api?username=mailsonsoc)](https://github.com/mailsonsoc/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mailsonsoc)](https://github.com/mailsonsoc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mailsonsoc&layout=compact)](https://github.com/mailsonsoc/github-readme-stats)
 
+#Thanks for visiting
