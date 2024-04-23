@@ -1,6 +1,6 @@
 ## Hello everybody, I'm Mailson!
 
-- Developer Student :computer:
+- Back End Developer :computer:
 
 ## About me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mailsonsoc/)](https://www.linkedin.com/in/mailsonsoc/)
